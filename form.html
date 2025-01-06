@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body bgcolor="cyan">
+    <h1 align="center"><b><u>Registration Form</u></b></h1>
+    <h3>
+    <form action="/action.php">
+        1. Enter your name:
+        <input type="text" placeholder="Name">
+            <br><br>
+        2. Enter your password:
+        <input type="password" placeholder="Password">
+            <br><br>
+        3. Specify your Class: 
+        <br>
+        <label for="101">
+                <input type="radio" value="class XI" name="class" id="101">class XI
+        </label>
+             <br>
+        <label for="102">
+                <input type="radio" value="class XII" name="class" id="102">class XII
+        </label>
+            <br>
+        <label for="103">
+            <input type="radio" value="class XIII" name="class" id="103">class XIII
+        </label>
+            <br><br>
+        4. Specify your Favourite:
+        <br>
+        <label for="1" >
+                <input type="checkbox" value="math" name="subject" id="1">Mathematics
+        </label>
+            <br>
+        <label for="2" >
+                <input type="checkbox" value="eng" name="subject" id="2">English
+        </label>
+            <br>
+        <label for="3" >
+                <input type="checkbox" value="phy" name="subject" id="3">Physics
+        </label>
+            <br>
+        <label for="4" >
+               <input type="checkbox" value="cs" name="subject" id="4">Computer Science
+        </label>
+            <br><br>
+        5. Specify your city: 
+        <select name="city">
+                <option value="Delhi">Delhi</option>
+                <option value="Mumbai">Mumbai</option>
+                <option value="Banglore">Banglore</option>
+                <option value="Navi Mumbai">Navi Mumbai</option>
+        </select>
+            <br><br>
+        6. Feedback: 
+            <br>
+        <textarea name="feedback" id="101" placeholder="please give feedback" rows="5"></textarea>
+            <br><br>
+        <input type="submit" value="submit">
+    </form>
+    </h3>
+</body> 
+</html>
