@@ -1,0 +1,59 @@
+body{
+    font-family: verdana;
+    color: #454851;
+    background-color: #95D7AE;
+}
+hr{
+    border: 1px solid black;
+}
+input:hover{
+    background-color: #2f5a33;
+}
+select:hover{
+    background-color: #2f5a33;
+    color:#95D7AE;
+}
+button:hover{
+    background-color: #2f5a33;
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    top: 94%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#neo:hover{
+    background-color: #2f5a33;
+    height: 30px;
+    width: 100px;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#neo{
+    height: 30px;
+    width: 100px;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+button{
+    background-color: #7BAE7F;
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    top: 94%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+input{
+    background-color: #7BAE7F;
+}
+select{
+    background-color: #7BAE7F;
+}
+textarea{
+    background-color: #7BAE7F;
+}

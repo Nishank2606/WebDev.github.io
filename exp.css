@@ -1,0 +1,19 @@
+body{
+    font-family: system-ui;
+    background-color: #95D7AE;
+}
+hr{
+    border: 1px solid black;
+}
+button{
+    margin: 450px 715px;
+    background-color: #7BAE7F;
+    height: 40px;
+    width: 80px;
+}
+button:hover{
+    margin: 450px 715px;
+    background-color: #144f19;
+    height: 40px;
+    width: 80px;
+}
