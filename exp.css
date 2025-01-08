@@ -1,19 +1,36 @@
 body{
     font-family: system-ui;
     background-color: #95D7AE;
+    color: #144f19;
 }
 hr{
     border: 1px solid black;
 }
 button{
-    margin: 450px 715px;
     background-color: #7BAE7F;
     height: 40px;
-    width: 80px;
+    width: 110px; 
+    border-radius: 7px; 
+    transition: 0.3s;
+    border: none;
+    font-size: 16px;
+    color: #144f19;
 }
 button:hover{
-    margin: 450px 715px;
     background-color: #144f19;
     height: 40px;
     width: 80px;
+    border-radius: 7px; 
+    border: none;
+    transition: 0.3s;
+    font-size: 16px;
+    color: #7BAE7F;
 }
+a {
+    display: inline-block;      
+  }
+.center{
+    display: flex;              
+    justify-content: center;  
+    align-items: center;  
+  }
