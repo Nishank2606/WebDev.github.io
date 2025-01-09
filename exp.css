@@ -29,8 +29,8 @@ button:hover{
     font-family: cursive;
 }
 button:active {
-    transform: scale(0.95); /* Slightly scales down the button */
-    transition: transform 0.1s; /* Adds a quick transition for the scale effect */
+    transform: scale(0.8); 
+    transition: transform 0.2s; 
   }
 a {
     display: inline-block;      
