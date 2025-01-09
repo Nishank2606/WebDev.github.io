@@ -17,7 +17,7 @@ hr{
     color: #f9b7b5;
     border-radius: 7px; 
     border: none;
-    font-size: 16px;
+    font-size: 18px;
     transition: 0.3s;
   }
   button:hover {
@@ -27,7 +27,7 @@ hr{
     color: #DB7F8E;
     border-radius: 7px; 
     border: none;
-    font-size: 16px;
+    font-size: 18px;
     transition: 0.3s;
   }
   a {
