@@ -2,8 +2,8 @@ table{
     border: 2px solid black;
     color: #DB7F8E;
      }
-body{
-    font-family: verdana;
+body{ 
+    font-family: cursive;
     background-color: #FFDBDA;
     color: #DB7F8E;
 }
@@ -19,6 +19,7 @@ hr{
     border: none;
     font-size: 18px;
     transition: 0.3s;
+    font-family: cursive;
   }
   button:hover {
     background-color: #f9b7b5;;
@@ -29,6 +30,7 @@ hr{
     border: none;
     font-size: 18px;
     transition: 0.3s;
+    font-family: cursive;
   }
   a {
     display: inline-block;      

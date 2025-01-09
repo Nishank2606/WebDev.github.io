@@ -1,5 +1,5 @@
 body{
-    font-family: verdana;
+    font-family: cursive;
     color: #454851;
     background-color: #95D7AE;
     color:  #144f19;
@@ -15,6 +15,7 @@ input:hover{
     font-size: 16px;
     color: #95D7AE;
     border: none;
+    font-family: cursive;
 }
 select:hover{
     background-color: #2f5a33;
@@ -25,6 +26,7 @@ select:hover{
     font-size: 16px;
     color: #144f19;
     border: none;
+    font-family: cursive;
 }
 input{
     background-color: #7BAE7F;
@@ -34,6 +36,7 @@ input{
     font-size: 16px;
     color: #144f19;
     border: none;
+    font-family: cursive;
 }
 select{
     background-color: #7BAE7F;
@@ -43,6 +46,7 @@ select{
     font-size: 16px;
     color: #144f19;
     border: none;
+    font-family: cursive;
 }
 textarea{
     background-color: #7BAE7F;
@@ -52,6 +56,7 @@ textarea{
     margin: 0px 150px;
     color: #144f19;
     border: none;
+    font-family: cursive;
 }
 button{
     background-color: #7BAE7F;
@@ -62,6 +67,7 @@ button{
     border: none;
     font-size: 18px;
     color: #144f19;
+    font-family: cursive;
 }
 button:hover{
     background-color: #144f19;
@@ -72,6 +78,7 @@ button:hover{
     transition: 0.3s;
     font-size: 18px;
     color: #7BAE7F;
+    font-family: cursive;
 }
 #neo:hover{
     background-color: #144f19;
@@ -82,6 +89,7 @@ button:hover{
     transition: 0.3s;
     font-size: 18px;
     color: #7BAE7F;
+    font-family: cursive;
 }
 #neo{
     background-color: #7BAE7F;
@@ -92,6 +100,7 @@ button:hover{
     border: none;
     font-size: 18px;
     color: #144f19;
+    font-family: cursive;
 }
 a {
     display: inline-block;      

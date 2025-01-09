@@ -1,5 +1,5 @@
 body{
-    font-family: verdana;
+    font-family: cursive;
 }
 hr{
     border: 1px solid black;
@@ -17,6 +17,7 @@ button{
     border: none;
     font-size: 18px;
     transition: 0.3s;
+    font-family: cursive;
 }
 button:hover{
     background-color: #032471;
@@ -27,6 +28,7 @@ button:hover{
     border: none;
     font-size: 18px;
     transition: 0.3s;
+    font-family: cursive;
 }
 a {
     display: inline-block;      
@@ -40,9 +42,11 @@ a {
     width: 110px;
     height: 60px;
     font-size: 18px;
+    font-family: cursive;
   }
   #butter:hover{
     width: 80px;
     height: 40px;
     font-size: 18px;
+    font-family: cursive;
   }
