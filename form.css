@@ -55,7 +55,7 @@ textarea{
 }
 button{
     background-color: #7BAE7F;
-    height: 40px;
+    height: 60px;
     width: 110px; 
     border-radius: 7px; 
     transition: 0.3s;
@@ -80,17 +80,17 @@ button:hover{
     border-radius: 7px; 
     border: none;
     transition: 0.3s;
-    font-size: 16px;
+    font-size: 18px;
     color: #7BAE7F;
 }
 #neo{
     background-color: #7BAE7F;
-    height: 40px;
+    height: 60px;
     width: 110px; 
     border-radius: 7px; 
     transition: 0.3s;
     border: none;
-    font-size: 16px;
+    font-size: 18px;
     color: #144f19;
 }
 a {

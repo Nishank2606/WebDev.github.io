@@ -11,7 +11,7 @@ body{
 button{
     background-color: #247BA0;
     color: #032471;
-    height: 50px;
+    height: 70px;
     width: 150px;
     border-radius: 7px; 
     border: none;
@@ -38,7 +38,7 @@ a {
   }
   #butter{
     width: 110px;
-    height: 40px;
+    height: 60px;
     font-size: 16px;
   }
   #butter:hover{
