@@ -1,11 +1,10 @@
 body{
     font-family: cursive;
-    color: #454851;
-    background-color: #95D7AE;
+    background-color: #144f19;
     color:  #144f19;
 }
 hr{
-    border: 1px solid black;
+    border: 2px solid #2f5a33;;
 }
 input:hover{
     background-color: #2f5a33;
@@ -70,7 +69,7 @@ button{
     font-family: cursive;
 }
 button:hover{
-    background-color: #144f19;
+    background-color: #06630e;
     height: 40px;
     width: 80px;
     border-radius: 7px; 
@@ -79,6 +78,10 @@ button:hover{
     font-size: 18px;
     color: #7BAE7F;
     font-family: cursive;
+}
+button:active {
+    transform: scale(0.95); /* Slightly scales down the button */
+    transition: transform 0.1s; /* Adds a quick transition for the scale effect */
 }
 #neo:hover{
     background-color: #144f19;
@@ -102,11 +105,25 @@ button:hover{
     color: #144f19;
     font-family: cursive;
 }
+#neo:active {
+    transform: scale(0.95); /* Slightly scales down the button */
+    transition: transform 0.1s; /* Adds a quick transition for the scale effect */
+  }
 a {
     display: inline-block;      
-  }
+}
 .center{
     display: flex;              
     justify-content: center;  
     align-items: center;  
-  }
+}
+.Dry{
+    border: 3px solid #144f19;
+    border-radius: 7px;
+    margin-bottom: 20px; 
+    padding: 10px;
+    background-color: #95D7AE;
+}
+.Rip{
+    margin: 0px 40px;
+}

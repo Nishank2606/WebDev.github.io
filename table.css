@@ -1,17 +1,19 @@
 table{
-    border: 2px solid black;
-    color: #DB7F8E;
-     }
+    border: 3px solid #DB7F8E;;
+  }
+th, td{
+  border: 3px solid #DB7F8E;; 
+  }
 body{ 
     font-family: cursive;
-    background-color: #FFDBDA;
-    color: #DB7F8E;
-}
-hr{
-    border: 1px solid black;
-}
-  button {
     background-color: #DB7F8E;
+    color: #DB7F8E;
+  }
+hr{
+    border: 2px solid #DB7F8E;;
+  }
+  button {
+    background-color: #e36c80;
     height: 60px;
     width: 110px;
     color: #f9b7b5;
@@ -22,7 +24,7 @@ hr{
     font-family: cursive;
   }
   button:hover {
-    background-color: #f9b7b5;;
+    background-color: #f9b7b5;
     height: 40px;
     width: 80px;
     color: #DB7F8E;
@@ -32,6 +34,10 @@ hr{
     transition: 0.3s;
     font-family: cursive;
   }
+  button:active {
+    transform: scale(0.95); /* Slightly scales down the button */
+    transition: transform 0.1s; /* Adds a quick transition for the scale effect */
+  }
   a {
     display: inline-block;      
   }
@@ -40,3 +46,13 @@ hr{
     justify-content: center;  
     align-items: center;  
   }
+  caption{
+    font-size: 18px;
+  }
+.Dry{
+    border: 3px solid #DB7F8E;
+    border-radius: 7px;
+    margin-bottom: 20px; 
+    padding: 10px;
+    background-color: #FFDBDA;
+}

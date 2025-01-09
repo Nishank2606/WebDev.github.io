@@ -6,7 +6,7 @@ img{
 }
 body{
     font-family: cursive;
-    background-color: #95D7AE;
+    background-color: #144f19;
     color: #144f19;
 }
 hr{
@@ -24,7 +24,7 @@ button{
     font-family: cursive;
 }
 button:hover{
-    background-color: #144f19;
+    background-color: #04620c;
     height: 40px;
     width: 80px;
     border-radius: 7px; 
@@ -34,6 +34,10 @@ button:hover{
     color: #7BAE7F;
     font-family: cursive;
 }
+button:active {
+    transform: scale(0.95); /* Slightly scales down the button */
+    transition: transform 0.1s; /* Adds a quick transition for the scale effect */
+  }
 a {
     display: inline-block;      
   }
@@ -42,3 +46,10 @@ a {
     justify-content: center;  
     align-items: center;  
   }
+.Dry{
+    border: 3px solid #144f19;
+    border-radius: 7px;
+    margin-bottom: 20px; 
+    padding: 10px;
+    background-color: #95D7AE;
+}
