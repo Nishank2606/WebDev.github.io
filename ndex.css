@@ -48,3 +48,11 @@ a {
     padding: 10px;
     background-color:  #95D7AE;
 }
+.Fry{
+    border: 3px solid #144f19;
+    border-radius: 7px;
+    margin-bottom: 20px; 
+    padding: 10px;
+    background-color: #95D7AE;
+    margin: 40px 500px;
+}

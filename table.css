@@ -56,3 +56,11 @@ hr{
     padding: 10px;
     background-color: #FFDBDA;
 }
+.Fry{
+  border: 3px solid #DB7F8E;
+  border-radius: 7px;
+  margin-bottom: 20px; 
+  padding: 10px;
+  background-color: #FFDBDA;
+  margin: 40px 500px;
+}
