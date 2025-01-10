@@ -57,7 +57,7 @@ a {
     border: 3px solid #144f19;
     border-radius: 7px;
     margin-bottom: 20px; 
-    padding: 10px;
     background-color: #7BAE7F; 
-    margin: 40px 500px;
+    margin: 0px auto; 
+    padding: 10px;
 }
