@@ -51,8 +51,8 @@ textarea{
     background-color: #7BAE7F;
     border-radius: 5px; 
     font-size: 16px;
-    width: 500px;
-    margin: 0px 150px;
+    width: 200px;
+    margin: 0px 25px;
     color: #144f19;
     border: none;
     font-family: cursive;
@@ -125,7 +125,7 @@ a {
     background-color: #95D7AE;
 }
 .Rip{
-    margin: 0px 40px;
+    margin: 0px auto;
 }
 .Fry{
     border: 3px solid #144f19;
