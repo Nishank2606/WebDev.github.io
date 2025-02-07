@@ -5,7 +5,7 @@ img{
     border: none;
 }
 body{
-    font-family: cursive;
+    font-family: "Courier New", Courier, monospace;
     background-color: #144f19;
     color: #144f19; 
 }
@@ -21,7 +21,7 @@ button{
     border: none;
     font-size: 18px;
     color: #144f19; 
-    font-family: cursive;
+    font-family: "Courier New", Courier, monospace;
 }
 button:hover{
     background-color: #04620c; 
@@ -32,7 +32,7 @@ button:hover{
     transition: 0.3s;
     font-size: 18px;
     color: #7BAE7F; 
-    font-family: cursive;
+    font-family: "Courier New", Courier, monospace;
 }
 button:active {
     transform: scale(0.8); 

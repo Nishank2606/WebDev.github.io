@@ -5,7 +5,7 @@ th, td{
   border: 3px solid #DB7F8E;; 
   }
 body{ 
-    font-family: cursive;
+    font-family: "Courier New", Courier, monospace;
     background-color: #DB7F8E;
     color: #DB7F8E;
   }
@@ -21,7 +21,7 @@ hr{
     border: none;
     font-size: 18px;
     transition: 0.3s;
-    font-family: cursive;
+    font-family: "Courier New", Courier, monospace;
   }
   button:hover {
     background-color: #f9b7b5;
@@ -32,7 +32,7 @@ hr{
     border: none;
     font-size: 18px;
     transition: 0.3s;
-    font-family: cursive;
+    font-family: "Courier New", Courier, monospace;
   }
   button:active {
     transform: scale(0.8); 
